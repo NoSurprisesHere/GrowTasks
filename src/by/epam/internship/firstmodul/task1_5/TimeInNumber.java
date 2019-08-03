@@ -1,4 +1,4 @@
-package by.epam.internship.firstmodul.task5;
+package by.epam.internship.firstmodul.task1_5;
 import java.util.Scanner;
 
 public class TimeInNumber {

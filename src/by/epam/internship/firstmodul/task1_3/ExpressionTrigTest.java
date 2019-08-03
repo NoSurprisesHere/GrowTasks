@@ -1,4 +1,4 @@
-package by.epam.internship.firstmodul.task3;
+package by.epam.internship.firstmodul.task1_3;
 
 public class ExpressionTrigTest {
     public static void main(String[] args) {

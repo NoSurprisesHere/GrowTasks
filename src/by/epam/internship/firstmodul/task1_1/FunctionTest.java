@@ -1,4 +1,4 @@
-package by.epam.internship.firstmodul.task1;
+package by.epam.internship.firstmodul.task1_1;
 
 public class FunctionTest {
     public static void main(String[] args) {

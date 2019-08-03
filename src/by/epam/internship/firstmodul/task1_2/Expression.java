@@ -1,4 +1,4 @@
-package by.epam.internship.firstmodul.task2;
+package by.epam.internship.firstmodul.task1_2;
 
 import java.util.Scanner;
 

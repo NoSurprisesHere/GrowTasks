@@ -1,4 +1,4 @@
-package by.epam.internship.firstmodul.task2;
+package by.epam.internship.firstmodul.task1_2;
 
 public class ExpressionTest {
     public static void main(String[] args) {

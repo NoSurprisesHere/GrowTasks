@@ -1,4 +1,4 @@
-package by.epam.internship.firstmodul.task4;
+package by.epam.internship.firstmodul.task1_4;
 import java.util.Scanner;
 
 public class NumbersSwap {
